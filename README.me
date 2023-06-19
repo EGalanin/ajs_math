@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fak2lejb8vg30o1l?svg=true)](https://ci.appveyor.com/project/EGalanin/ajs-math)
